@@ -9,7 +9,7 @@
 ### Social Media
   <a href="https://www.linkedin.com/in/diego-bittencourt" target="_blank"><img src="https://raw.githubusercontent.com/hevant/hevant/master/assets/Linkedin.svg" target="_blank"></a>
  <a href = "mailto:diegohevant@gmail.com"><img src="https://raw.githubusercontent.com/hevant/hevant/master/assets/Gmail.svg" target="_blank"></a>
-<a href="https://www.instagram.com/diegohevant/" target="_blank"><img src="https://raw.githubusercontent.com/hevant/hevant/master/assets/Instagram.svg" target="_blank"></a>
+<a href="https://www.instagram.com/dieegobs/" target="_blank"><img src="https://raw.githubusercontent.com/hevant/hevant/master/assets/Instagram.svg" target="_blank"></a>
   <a href="https://www.twitch.tv/kronokk" target="_blank"><img src="https://raw.githubusercontent.com/hevant/hevant/master/assets/Twitch.svg" target="_blank"></a>
 
 
