@@ -1,16 +1,16 @@
 ### Olá, Eu sou o [Diego Bittencourt!](https://www.linkedin.com/in/diego-bittencourt)  👋
 
 <span>
-  <a href="https://github.com/hevant">
-<img src="https://raw.githubusercontent.com/hevant/hevant/master/assets/banner.png">
+  <a href="https://github.com/dieegobs">
+<img src="https://raw.githubusercontent.com/dieegobs/dieegobs/master/assets/banner.png">
 </span>
   
   
 ### Social Media
-  <a href="https://www.linkedin.com/in/diego-bittencourt" target="_blank"><img src="https://raw.githubusercontent.com/hevant/hevant/master/assets/Linkedin.svg" target="_blank"></a>
- <a href = "mailto:diegohevant@gmail.com"><img src="https://raw.githubusercontent.com/hevant/hevant/master/assets/Gmail.svg" target="_blank"></a>
-<a href="https://www.instagram.com/dieegobs/" target="_blank"><img src="https://raw.githubusercontent.com/hevant/hevant/master/assets/Instagram.svg" target="_blank"></a>
-  <a href="https://www.twitch.tv/kronokk" target="_blank"><img src="https://raw.githubusercontent.com/hevant/hevant/master/assets/Twitch.svg" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/diego-bittencourt" target="_blank"><img src="https://raw.githubusercontent.com/dieegobs/dieegobs/master/assets/Linkedin.svg" target="_blank"></a>
+ <a href = "mailto:diegohevant@gmail.com"><img src="https://raw.githubusercontent.com/dieegobs/dieegobs/master/assets/Gmail.svg" target="_blank"></a>
+<a href="https://www.instagram.com/dieegobs/" target="_blank"><img src="https://raw.githubusercontent.com/dieegobs/dieegobs/master/assets/Instagram.svg" target="_blank"></a>
+  <a href="https://www.twitch.tv/kronokk" target="_blank"><img src="https://raw.githubusercontent.com/dieegobs/dieegobs/master/assets/Twitch.svg" target="_blank"></a>
 
 
 ### Sobre Mim
@@ -20,7 +20,7 @@ Experiência como empreendedor, o que me tornou um profissional com visão 360º
 
 <span style="display: inline_block">
 - 🌱 Estudando Flutter
-   <a href="https://github.com/hevant">
+   <a href="https://github.com/dieegobs">
    <img align="center" alt="Diego-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
    </a>
 </span></br>
@@ -29,13 +29,13 @@ Experiência como empreendedor, o que me tornou um profissional com visão 360º
 
 ### Github Stats
 <span style="display: flex;">
-  <a href="https://github.com/hevant">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=hevant&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hevant&layout=compact&langs_count=16&theme=tokyonight"/>
+  <a href="https://github.com/dieegobs">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dieegobs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieegobs&layout=compact&langs_count=16&theme=tokyonight"/>
   </a>
 </span>
   
-![Snake animation](https://github.com/hevant/hevant/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/dieegobs/dieegobs/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **hevant/hevant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
