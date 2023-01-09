@@ -4,7 +4,7 @@
   <a href="https://github.com/dieegobs">
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 </span>
-  
+  ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
   
 ### Social Media
   <a href="https://www.linkedin.com/in/diego-bittencourt" target="_blank"><img src="https://raw.githubusercontent.com/dieegobs/dieegobs/master/assets/Linkedin.svg" target="_blank"></a>
