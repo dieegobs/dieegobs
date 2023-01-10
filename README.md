@@ -19,7 +19,7 @@ Atuando principalmente com Programação & Marketing Digital. Experiência na cr
 Experiência como empreendedor, o que me tornou um profissional com visão 360º sobre as necessidades e objetivos de um negócio. Procuro sempre trabalhar em equipe, cooperando com todos e ajudando da melhor maneira possível, com grande satisfação em ensinar e aprender.
 
 <span style="display: inline_block">
-- 🌱 Estudando React
+- 📚 Estudando JavaScript, TypeScript, ReactJS, React Native, NextJs
    <a href="https://github.com/dieegobs">
    <img align="center" alt="Diego-Flutter" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
    </a>
