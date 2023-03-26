@@ -35,7 +35,6 @@ Experiência como empreendedor, o que me tornou um profissional com visão 360º
   </a>
 </span>
   
-![Snake animation](https://github.com/dieegobs/dieegobs/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **hevant/hevant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
