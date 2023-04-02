@@ -34,7 +34,8 @@ Experiência como empreendedor, o que me tornou um profissional com visão 360º
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieegobs&layout=compact&langs_count=16&theme=tokyonight"/>
   </a>
 </span>
-  
+ 
+![Snake animation](https://github.com/dieegobs/dieegobs/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **hevant/hevant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
