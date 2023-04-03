@@ -14,7 +14,7 @@
 
 
 ### Sobre Mim
-Atuando principalmente com Programação & Marketing Digital. Experiência na criação de sites Wordpress e Seo (Search Engine Optimization).
+Atuando principalmente com Programação & Marketing Digital. Experiência na criação de sites Wordpress, Seo (Search Engine Optimization).
 
 Experiência como empreendedor, o que me tornou um profissional com visão 360º sobre as necessidades e objetivos de um negócio. Procuro sempre trabalhar em equipe, cooperando com todos e ajudando da melhor maneira possível, com grande satisfação em ensinar e aprender.
 
