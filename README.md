@@ -6,7 +6,7 @@
 </span>
   
   
-### Social Mediaaaa
+### Social Media
   <a href="https://www.linkedin.com/in/diego-bittencourt" target="_blank"><img src="https://raw.githubusercontent.com/dieegobs/dieegobs/master/assets/Linkedin.svg" target="_blank"></a>
  <a href = "mailto:diegohevant@gmail.com"><img src="https://raw.githubusercontent.com/dieegobs/dieegobs/master/assets/Gmail.svg" target="_blank"></a>
 <a href="https://www.instagram.com/dieegobs/" target="_blank"><img src="https://raw.githubusercontent.com/dieegobs/dieegobs/master/assets/Instagram.svg" target="_blank"></a>
